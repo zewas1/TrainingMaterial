@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a4b3e5-b8b7-44b8-9b6d-744dd37014b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessingGameGui/GuessingGameGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginTestApp/LoginTestApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,20 +43,7 @@
       <recent name="PrisijungimoSistema" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GuessingGameGui (1)">
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="afterbreak2.BankAccount" />
-      <module name="sandbox" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="afterbreak2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LoginSystem">
     <configuration name="BankingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="afterbreak2.BankingApplication" />
       <module name="sandbox" />
@@ -104,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoginTestApp.LoginSystem" />
+      <module name="sandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoginTestApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoginSystem" />
         <item itemvalue="Application.GuessingGameGui (1)" />
         <item itemvalue="Application.GuessingGameGui" />
         <item itemvalue="Application.HangmanGame" />
         <item itemvalue="Application.BankingApplication" />
-        <item itemvalue="Application.BankAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -157,30 +156,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="161" width="438" height="482" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582982168765" />
-    <state width="1557" height="142" key="GridCell.Tab.0.bottom" timestamp="1586935545847">
+    <state width="1557" height="142" key="GridCell.Tab.0.bottom" timestamp="1586940288828">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1352" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582304633786" />
     <state width="1362" height="135" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583071255446" />
-    <state width="1557" height="142" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586935545847" />
-    <state width="1557" height="142" key="GridCell.Tab.0.center" timestamp="1586935545846">
+    <state width="1557" height="142" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586940288828" />
+    <state width="1557" height="142" key="GridCell.Tab.0.center" timestamp="1586940288828">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1352" height="257" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582304633786" />
     <state width="1362" height="135" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583071255446" />
-    <state width="1557" height="142" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586935545846" />
-    <state width="1557" height="142" key="GridCell.Tab.0.left" timestamp="1586935545845">
+    <state width="1557" height="142" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586940288828" />
+    <state width="1557" height="142" key="GridCell.Tab.0.left" timestamp="1586940288828">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1352" height="257" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582304633786" />
     <state width="1362" height="135" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583071255446" />
-    <state width="1557" height="142" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586935545845" />
-    <state width="1557" height="142" key="GridCell.Tab.0.right" timestamp="1586935545847">
+    <state width="1557" height="142" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586940288828" />
+    <state width="1557" height="142" key="GridCell.Tab.0.right" timestamp="1586940288828">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1352" height="257" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582304633786" />
     <state width="1362" height="135" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583071255446" />
-    <state width="1557" height="142" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586935545847" />
+    <state width="1557" height="142" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586940288828" />
     <state width="1557" height="201" key="GridCell.Tab.1.bottom" timestamp="1586001919800">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -213,12 +212,12 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="521" y="171" width="540" height="524" key="StructurePopup/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586072122826" />
-    <state x="411" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1586934595626">
+    <state x="411" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1586936216129">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="395" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583237995127" />
     <state x="395" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583045367883" />
-    <state x="411" y="247" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586934595626" />
+    <state x="411" y="247" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1586936216129" />
     <state x="975" y="202" width="538" height="496" key="extract.method.dialog" timestamp="1583068511978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
