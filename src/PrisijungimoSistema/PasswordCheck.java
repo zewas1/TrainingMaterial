@@ -2,6 +2,8 @@ package PrisijungimoSistema;
 
 import java.util.regex.Pattern;
 
+// password hashing
+
 public class PasswordCheck {
     public static boolean isValid(String password){
         String passwordRegex = "((?=.*[a-zA-Z0-9_+&*-]).{8,40})";
